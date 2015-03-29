@@ -1,5 +1,7 @@
-CMOS-Edit
+# CMOS-Edit
 =========
+
+Written on 1996
 
 Turbo Pascal application - CMOS memory (BIOS) edit
 
