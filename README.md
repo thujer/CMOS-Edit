@@ -1,5 +1,4 @@
 # CMOS-Edit
-=========
 
 Written on 1996
 
